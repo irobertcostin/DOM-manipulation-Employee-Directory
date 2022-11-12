@@ -220,19 +220,19 @@ function populateCard(arr,obj) {
 
 // functie ce primeste un array si un obiect si returneaza obiectul din fata 
 
-// function previous(arr,obj) {
+function previous(arr,obj) {
 
-//     let new = [];
-//     let y = 0;
+    let new = [];
+    let y = 0;
 
-//     for (i=0;i<arr.length;i++){
-//         if(arr[i].name.last == obj.name.last) {
+    for (i=0;i<arr.length;i++){
+        if(arr[i].name.last == obj.name.last) {
             
-//         }
+        }
 
 
-//     }
+    }
 
-// }
+}
 
 
